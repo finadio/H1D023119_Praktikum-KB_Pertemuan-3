@@ -23,7 +23,8 @@ Aplikasi ini dirancang untuk membantu mengelola daftar barang dalam sebuah inven
 ## 🚀 Cara Menjalankan Program
 1️⃣ Pastikan Python telah terinstal di perangkat kamu.  
 2️⃣ Jalankan program dengan perintah:
-   ```inventaris.py```
+   ```inventaris.py
+   ```
 3️⃣ Pilih menu sesuai kebutuhan:
    - Ketik **1** untuk menambahkan barang
    - Ketik **2** untuk melihat daftar barang
