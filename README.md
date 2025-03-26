@@ -1,8 +1,8 @@
 # 📦 Aplikasi Pengelolaan Inventaris Sederhana
 
 Untuk memenuhi tugas praktikum Kecerdasan Buatan oleh:
-Nama    : Fina Julianti
-NIM     : H1D023119
+- Nama    : Fina Julianti
+- NIM     : H1D023119
 
 ## 📝 Deskripsi
 Aplikasi ini dirancang untuk membantu mengelola daftar barang dalam sebuah inventaris secara sederhana. Dengan fitur yang mudah digunakan, pengguna dapat menambahkan barang, melihat daftar inventaris, serta menghapus barang berdasarkan ID yang dihasilkan secara acak.
